@@ -4,7 +4,7 @@
 EduShop Assistant is a C++ program designed to assist students in various academic tasks such as calculating GPA, providing freshman help, assigning materials based on the year and department, registering new students, and recommending materials based on the chosen department.
 
 ## File Description
-- `EduShop Assistant.cpp`: This is the main C++ file containing the code for the EduShop Assistant program.
+- `EduShopAssistant.cpp`: This is the main C++ file containing the code for the EduShop Assistant program.
   
 ## Features
 1. **GPA Calculator:** Allows students to calculate their GPA based on the courses they are taking.
@@ -14,7 +14,7 @@ EduShop Assistant is a C++ program designed to assist students in various academ
 5. **Material Recommendations:** Recommends materials to students based on their chosen department.
 
 ## Usage
-1. Run the `EduShop Assistant.cpp` file in a C++ compiler.
+1. Run the `EduShopAssistant.cpp` file in a C++ compiler.
 2. Follow the on-screen instructions to utilize the different features of the program.
 
 ## Additional Information
